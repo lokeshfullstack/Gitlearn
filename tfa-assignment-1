@@ -1,9 +1,18 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>My document</title>
-  </head>
-  <body>
-    <p>learn some basic HTML.</p>
-  </body>
+<Html>
+<head>
+<title>my document </title>
+</Head>
+<body BGCOLOR="FFFFFF">
+<center><img src="clouds.jpg" Align="bottom"> </center>
+<hr>
+<a href="https://www.shankariasacademy.com">Link Name</a>
+This is a IAS Academy
+<H1>IAS</H1>
+<H2>IPS</H2>
+<P> best ias academy in tamilnadu!
+<P> <B>best upsc classes in mumbai</B>
+<BR> <B><I>civil services</I></B>
+<hr>
+</body
 </html>
